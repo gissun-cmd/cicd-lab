@@ -20,3 +20,4 @@ Docker·Kubernetes·클라우드 보안 과목에서 쓴 **todo 앱**(api · web
 - 실습: 김기선
 - 질문: Discord
 ##소개
+- VM에서 더한 줄
