@@ -1,4 +1,4 @@
-# CI/CD 실습 저장소 (kt cloud TECH UP)
+# CI/CD 실습 몽저장소 (kt cloud TECH UP)
 
 Docker·Kubernetes·클라우드 보안 과목에서 쓴 **todo 앱**(api · web · db)과 배포 매니페스트(`deploy/`)가 들어 있습니다. CI/CD 과목 내내 이 저장소 하나에 GitHub Actions, Jenkins, Argo CD를 차례로 붙입니다.
 
