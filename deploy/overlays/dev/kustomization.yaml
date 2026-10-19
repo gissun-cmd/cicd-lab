@@ -9,4 +9,4 @@ images:
   newTag: jenkins-14
 - name: todo-web
   newName: ghcr.io/gissun-cmd/cicd-lab/web
-  newTag: 96cd78f212d08f5b93657ff1e0b317f8eac2413c
+  newTag: d251f636ebfff2b021f22bb66fbf5725ada55a6d
