@@ -8,7 +8,7 @@ resources:
 images:
 - name: todo-api
   newName: ghcr.io/gissun-cmd/cicd-lab/api
-  newTag: jenkins-14
+  newTag: jenkins-16
 - name: todo-web
   newName: ghcr.io/gissun-cmd/cicd-lab/web
   newTag: main
