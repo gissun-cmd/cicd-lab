@@ -11,4 +11,4 @@ images:
   newTag: main
 - name: todo-web
   newName: ghcr.io/gissun-cmd/cicd-lab/web
-  newTag: 9e3fb349d11a85d52f18443ee0b9c3d72b7e6eb8
+  newTag: 96cd78f212d08f5b93657ff1e0b317f8eac2413c
